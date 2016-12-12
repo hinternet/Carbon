@@ -2,5 +2,6 @@
 *.iml
 .php_cs.cache
 vendor
+bin
 composer.phar
 composer.lock

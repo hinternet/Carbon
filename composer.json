@@ -1,7 +1,7 @@
 {
-    "name": "nesbot/carbon",
-    "type": "library",
-    "description": "A simple API extension for DateTime.",
+    "name": "hinternet/carbon",
+    "type": "drupal-library",
+    "description": "Forked version as a Drupa 7 library of http://carbon.nesbot.com.",
     "keywords": [
         "date",
         "time",
@@ -38,6 +38,10 @@
         "psr-4": {
             "Tests\\": "tests/"
         }
+    },
+    "config": {
+        "vendor-dir": "./vendor",
+        "bin-dir": "./bin"
     },
     "extra": {
         "branch-alias": {
