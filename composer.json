@@ -45,7 +45,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "drupal-library"
+            "dev-master": "7.1.21-dev"
         }
     },
     "scripts": {
